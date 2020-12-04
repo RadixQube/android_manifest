@@ -16,7 +16,7 @@
   <project path="bionic" name="bionic" remote="yaap" />
   <project path="bootable/recovery" name="bootable_recovery" remote="yaap" />
   <project path="development" name="development" remote="yaap" />
-  <project path="manifest" name="yaap/manifest" remote="github" revision="eleven" />
+  <project path="manifest" name="RadixQube/android_manifest" remote="github" revision="mi5" />
   <project path="platform_testing" name="platform_testing" remote="yaap" />
 
   <!-- Build -->
@@ -156,7 +156,7 @@
   <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="yaap" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="yaap" />
   <project path="vendor/themes" name="vendor_themes" remote="yaap" />
-  <project path="vendor/yaap" name="vendor_yaap" remote="yaap" />
+  <project path="vendor/yaap" name="RadixQube/vendor_yaap" revision="r11" remote="github" />
 
 
 </manifest>
